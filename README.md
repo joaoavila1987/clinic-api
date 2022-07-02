@@ -1,2 +1,2 @@
 # Projeto-Stage
-Criação de Spa em React e api usando Python 
+Desenvolvimento  de uma api simples usando Python por meio do Flesk
